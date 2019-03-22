@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LifeLearning\LifeLearning\bin\Debug\LifeLearning.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LifeLearning\LifeLearning\bin\Debug\LifeLearning.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LifeLearning\LifeLearning\obj\Debug\LifeLearning.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LifeLearning\LifeLearning\obj\Debug\LifeLearning.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LifeLearning\LifeLearning\obj\Debug\LifeLearning.pdb
